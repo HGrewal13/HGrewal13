@@ -5,7 +5,7 @@ I have experience working with front end technologies to create dynamic and inte
 
 ## Skills
 <h3>🧮 Data Analytics Toolkit</h3>
-<div align="center">
+<div>
   <p>
     1️⃣ Python (Pandas, Numpy, Matplotlib) &nbsp;&nbsp;
     2️⃣ SQL<br>
@@ -19,7 +19,7 @@ I have experience working with front end technologies to create dynamic and inte
 </div>
 
 <h3>💻 Front-End Toolkit</h3>
-<div align="center">
+<div>
   <p>
     1️⃣ HTML &nbsp;&nbsp;
     2️⃣ CSS<br>
