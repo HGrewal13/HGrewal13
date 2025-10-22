@@ -5,31 +5,24 @@ I have experience working with front end technologies to create dynamic and inte
 
 ## Skills
 <h3>🧮 Data Analytics Toolkit</h3>
-<div>
-  <p>
-    1️⃣ Python (Pandas, Numpy, Matplotlib) &nbsp;&nbsp;
+    1️⃣ Python (Pandas, Numpy, Matplotlib) <br>
     2️⃣ SQL<br>
-    3️⃣ PostgreSQL &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    3️⃣ PostgreSQL <br>
     4️⃣ MongoDB<br>
-    5️⃣ Tableau &nbsp;&nbsp;
+    5️⃣ Tableau <br>
     6️⃣ Plotly<br>
-    7️⃣ Excel &nbsp;&nbsp;
-    8️⃣ Jupyter Notebook
-  </p>
-</div>
+    7️⃣ Excel <br>
+    8️⃣ Jupyter Notebook<br>
+
 
 <h3>💻 Front-End Toolkit</h3>
-<div>
-  <p>
-    1️⃣ HTML &nbsp;&nbsp;
+    1️⃣ HTML <br>
     2️⃣ CSS<br>
-    3️⃣ JavaScript &nbsp;&nbsp;
+    3️⃣ JavaScript <br>
     4️⃣ jQuery<br>
-    5️⃣ ReactJS &nbsp;&nbsp;
+    5️⃣ ReactJS <br>
     6️⃣ Leaflet<br>
-    7️⃣ APIs
-  </p>
-</div>
+    7️⃣ APIs<br>
 
 ## Contact
 
