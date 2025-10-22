@@ -9,7 +9,7 @@ I have experience working with front end technologies to create dynamic and inte
   <p>
     1️⃣ Python (Pandas, Numpy, Matplotlib) &nbsp;&nbsp;
     2️⃣ SQL<br>
-    3️⃣ PostgreSQL &nbsp;&nbsp;
+    3️⃣ PostgreSQL &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     4️⃣ MongoDB<br>
     5️⃣ Tableau &nbsp;&nbsp;
     6️⃣ Plotly<br>
