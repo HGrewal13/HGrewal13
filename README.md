@@ -9,33 +9,21 @@ I have experience working with front end technologies to create dynamic and inte
 <br>
 1️⃣ Python (Pandas, Numpy, Matplotlib)
 <br>
-2️⃣ SQL
+2️⃣ SQL      3️⃣ PostgreSQL
 <br>
-3️⃣ PostgreSQL
+4️⃣ MongoDB  5️⃣ Tableau
 <br>
-4️⃣ MongoDB
-<br>
-5️⃣ Tableau
-<br>
-6️⃣ Plotly
-<br>
-7️⃣ Excel
+6️⃣ Plotly   7️⃣ Excel
 <br>
 8️⃣ Jupyter Notebook
 
 **My Front End toolkit includes:**
 <br>
-1️⃣ HTML
+1️⃣ HTML        2️⃣ CSS
 <br>
-2️⃣ CSS
+3️⃣ Javascript  4️⃣ jQuery
 <br>
-3️⃣ Javascript
-<br>
-4️⃣ jQuery
-<br>
-5️⃣ ReactJS
-<br>
-6️⃣ Leaflet
+5️⃣ ReactJS     6️⃣ Leaflet
 <br>
 7️⃣ APIs
 
